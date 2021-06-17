@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-15">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/spring-framework/spring-aop-4.3.26.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/spring-framework/spring-beans-4.3.26.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/spring-framework/spring-context-4.3.26.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/spring-framework/spring-core-4.3.26.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/spring-framework/spring-expression-4.3.26.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/spring-framework/spring-test-4.3.26.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/spring-framework/spring-web-4.3.26.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/commons-logging-1.2/commons-logging-1.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
